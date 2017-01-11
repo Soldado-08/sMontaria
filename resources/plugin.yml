@@ -1,0 +1,7 @@
+name: sMontaria
+main: me.soldado.montaria.Main
+version: 1.0
+commands:
+   sela:
+      description: Pegue uma sela.
+      usage: /<command>

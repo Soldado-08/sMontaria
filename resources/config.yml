@@ -1,0 +1,32 @@
+#Esse será o nome que as selas deverão ter para chamar a sua montaria.
+NomeDaSela: "&aSela"
+
+#Haverá um delay para a montaria ser chamada? Se sim, qual será esse delay? (Delay em segundos)
+Delay: true
+TempoDelay: 5
+
+#Você quer que algumas mensagens sejam enviadas para os jogadore?
+MensagemSummon: true
+SelaEnviada: true
+
+#Os jogadores podem usar a cela para chamar as montarias? (Bem, se isso estiver desativado o plugin não funcionará =P)
+SumonarMontaria: true
+
+#O jogador pode andar enquanto a sua montaria é chamada?
+AndarEnquantoChama: false
+
+#A montaria deve sumir quando leva dano?
+RemoverMontariaDano: true
+
+#O cavalo deve sofrer dano de queda?
+DanoDeQueda: false
+
+#Os jogadores ainda podem domar cavalos da forma tradicional?
+DomarCavalo: false
+
+#Qual deve ser o nome da montaria do jogador?
+NomeMontaria: "Cavalo de %jogador%"
+
+#Permissões
+SumonarMontaria: "montaria.chamar"
+PegarSela: "montaria.pegar"
